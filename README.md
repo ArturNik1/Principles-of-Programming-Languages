@@ -9,3 +9,8 @@ The course provides an understanding of the principles of programming languages,
 5. Logic programming, interpreter for sub-language of prolog using Scheme
 
 # The Assignments:
+[Assignment 1: Basic functional coding in Typescript](https://github.com/ArturNik1/Principles-of-Programming-Languages/blob/main/The%20Assignments/Assignment%201.pdf)
+
+[Assignment 2: Expanding the AST, syntactic trasnformations](https://github.com/ArturNik1/Principles-of-Programming-Languages/blob/main/The%20Assignments/Assignment%202.pdf)
+
+[Assignment 3: Creating a new AST, enviroment-based evaluation](https://github.com/ArturNik1/Principles-of-Programming-Languages/blob/main/The%20Assignments/Assignment%203.pdf)
